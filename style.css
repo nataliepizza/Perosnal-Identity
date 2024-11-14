@@ -1,0 +1,48 @@
+body{
+    background: url(https://wallpapercat.com/w/full/a/c/a/167658-2048x1536-desktop-hd-sunrise-wallpaper-image.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px 2000px;
+  }
+  h1{font-size: xxx-large ; text-align: center;}
+  h2{font-size: xx-large ; text-align: center;}
+  .box {
+    text-align: center;
+    width: 2000px;
+    height: 80px;
+    border: 1px solid rgb(255, 46, 185);
+    margin: 100;
+
+  }
+  
+  .box {
+    background-color: #ffbeef;
+    color: #fff;
+    opacity: ;
+  }
+  table,
+  th,
+  td {
+    border: 1px solid black;
+  }
+  
+table,th {
+  background-color: #422d3d;
+  color: #ff5cce;
+  opacity: ;
+}
+table {
+  text-align: center;
+}
+table, th, td {border: 1px solid rgb(255, 235, 248)8, 61, 61);}
+table, th, td {
+  border: 1px solid;
+}
+table {
+  text-align: center;
+}
+table {align-items: center;}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
